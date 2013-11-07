@@ -5,3 +5,4 @@ People Attending
 ----------------
 - Lewis
 - Max
+- George
